@@ -16,4 +16,8 @@ describe.only('Unique Paths', () => {
   it("Should return value 2 for a 2 x 2 matrix", () => {
     expect(uniquePaths(2, 2)).toBe(2)
   })
+
+  it("Should return 56 for a 6 x 4 matrix", () => {
+    expect(uniquePaths(6,4)).toBe(56)
+  })
 })
