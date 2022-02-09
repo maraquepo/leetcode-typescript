@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="dacFR87WyGOtRANNRtqk" name="Page-1">
+        <mxGraphModel dx="961" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;num: [ 2, 3, 1, 2, 4, 3]&lt;br&gt;target: 7&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="30" width="280" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="160" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="160" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="160" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="160" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="160" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="160" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;start&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;fontSize=24;rotation=-90;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="240" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;span style=&quot;font-size: 14px&quot;&gt;end&lt;/span&gt;" style="triangle;whiteSpace=wrap;html=1;fontSize=24;rotation=-90;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="240" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="sum: 9&lt;br&gt;minLength: 3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
