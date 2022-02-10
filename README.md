@@ -45,7 +45,7 @@
 ## Interval
 - [ ] Insert Interval
 - [ ] Merge Intervals
-- [ ] Non-o[ ] verlapping Intervals
+- [ ] Non-overlapping Intervals
 - [ ] Meeting Rooms
 - [ ] Meeting Rooms II
 
