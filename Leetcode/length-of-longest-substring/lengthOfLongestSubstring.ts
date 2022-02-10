@@ -1,3 +1,40 @@
+// Brute Force
+const lengthOfLongestSubstring2 = (s: string): number => {
+  // create variable for length of string
+  let n: number = s.length;
+  // create variable for result
+  let result: number = 0;
+  // iterate through the string of letters for start
+  for (let i = 0; i < n; i++) {
+    // iterate through the string for end
+    for (let j = i; j < n; j++) {
+      // check all combination of letters
+      if (checkRepetition(s, i, j)) {
+        // result is length from i to j w/o repeating characters
+        result = Math.max(result, j - i + 1)
+      }
+    }
+  }
+  return result
+}
+
+const checkRepetition = (s : string, start: number, end: number): boolean=> {
+  // create a hash map
+  const seen: Map<string, number> = new Map<string, number>();
+
+  // iterate through substring
+  for (let i = start; i <= end; i++) {
+    // if letter already exists, return false
+    if (seen.has(s[i])) {
+      return false
+    }
+    // if letter hasn't been seen, set character and index in map
+    seen.set(s[i], i)
+  }
+  return true;
+}
+
+// Sliding Window Solution
 const lengthOfLongestSubstring = (s: string): number => {
   // create a hash map to store seen characters
   const seen: Map<string, number> = new Map<string, number>();
