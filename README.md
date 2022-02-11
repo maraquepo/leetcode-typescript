@@ -43,7 +43,7 @@
 - [ ] Number of Connected Components in an Undirected Graph
 
 ## Interval
-- [ ] Insert Interval
+- [x] Insert Interval
 - [ ] Merge Intervals
 - [ ] Non-overlapping Intervals
 - [ ] Meeting Rooms
@@ -92,7 +92,7 @@
 - [ ] Word Search II
 
 ## Heap
-- [ ]  Merge K Sorted Lists
+- [ ] Merge K Sorted Lists
 - [ ] Top K Frequent Elements
 - [ ] Find Median from Data Stream
 
