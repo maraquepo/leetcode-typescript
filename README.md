@@ -61,7 +61,7 @@
 - [x] Set Matrix Zero
 - [ ] Spiral Matrix
 - [ ] Rotate Image
-- [ ] Word Search
+- [x] Word Search
 
 ## String
 - [x] Longest Substring Without Repeating Character
