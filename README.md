@@ -69,7 +69,7 @@
 - [ ] Minimum Window Substring
 - [ ] Valid Anagram
 - [ ] Group Anagrams
-- [ ] Valid Parentheses
+- [x] Valid Parentheses
 - [ ] Valid Palindrome
 - [ ] Longest Palindromic Substring
 - [x] Palindromic Substring
