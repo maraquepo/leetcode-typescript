@@ -51,8 +51,8 @@
 
 ## Linked List
 - [ ] Reverse a Linked List
-- [x] Detect Cycle in a Linked List
-- [x] Merge Two Sorted Lists
+- [ ] Detect Cycle in a Linked List
+- [ ] Merge Two Sorted Lists
 - [ ] Merge K Sorted Lists
 - [ ] Remove Nth Node From End Of List
 - [ ] Reorder List
